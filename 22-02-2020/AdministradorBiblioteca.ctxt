@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AdministradorBiblioteca
+comment1.params=ID
+comment1.target=Libro\ prestar(int)
+comment2.params=
+comment2.target=void\ mostrarLibros()
+comment3.params=nombre
+comment3.target=int\ buscar(java.lang.String)
+comment4.params=
+comment4.target=void\ librosPrestadosLista()
+numComments=5

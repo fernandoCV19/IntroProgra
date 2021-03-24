@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ejemplo
+comment1.params=
+comment1.target=void\ array()
+comment2.params=
+comment2.target=void\ eliminar()
+comment3.params=l
+comment3.target=void\ consulta(Libro)
+comment3.text=\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ String\ nombre;\r\n\ \ \ \ \r\n\ \ \ \ ciclo{\r\n\ \ \ \ \ \ \ \ Iteras\ en\ todos\ los\ elementos\ de\ la\ lista\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ En\ cada\ elemento\ le\ pides\ el\ nombre\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ Compara\ el\ nombre\ que\ has\ pedido\ con\ el\ nombre\ que\ estas\ buscando\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ Si\ son\ iguales\ terminas\ ciclo\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ Si\ son\ diferentes\ pasas\ al\ siguiente\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ }\r\n\ \ \ \ \ \r\n
+numComments=4
